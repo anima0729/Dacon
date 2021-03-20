@@ -1,6 +1,6 @@
 # Competition : Exercise_Pose_Classification <br>(운동 동작 분류 AI 경진대회)
 
-URL = [운동 동작 분류 AI 경진대회](https://www.dacon.io/competitions/official/235689/overview/description/)
+[운동 동작 분류 AI 경진대회](https://www.dacon.io/competitions/official/235689/overview/description/)
 
 ## Final Model
 - Support Vector Machine
