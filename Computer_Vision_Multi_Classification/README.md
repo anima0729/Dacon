@@ -10,7 +10,7 @@
 
 ## Result Processing
 - TTA (Test Time Augmentation)
-- 5 Folds Ensemble (Mean)
+- 5 Folds Ensemble (Out-Of-Fold)
 
 ## Reference
 
