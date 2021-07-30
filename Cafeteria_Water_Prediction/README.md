@@ -11,7 +11,7 @@
 
 ## Code Sharing
 
-[[CaffeDream, Private 8위] Pycaret을 이용한 구내 식수 인원 예측] (https://www.dacon.io/competitions/official/235743/codeshare/3001?page=1&dtype=recent)
+[\[CaffeDream, Private 8위\] Pycaret을 이용한 구내 식수 인원 예측] (https://www.dacon.io/competitions/official/235743/codeshare/3001?page=1&dtype=recent)
 
 ## Reference
 
