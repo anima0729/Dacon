@@ -1,4 +1,4 @@
-# Competition : Hand_Traffic_Signal_Classification <br>(운동 동작 분류 AI 경진대회)
+# Competition : Hand_Traffic_Signal_Classification <br>(2021 교통 수(手)신호 동작 인식 AI 경진대회)
 
 [2021 교통 수(手)신호 동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235806/overview/description)
 
