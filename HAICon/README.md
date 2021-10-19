@@ -5,8 +5,9 @@
 ## Final Model
 
 ## 다양한 Model
-- [SCINet](https://github.com/cure-lab/SCINet)
-	- paper : https://arxiv.org/pdf/2106.09305.pdf
+- [SCINet](https://www.dacon.io/competitions/official/235757/codeshare/3556)
+	- Code : https://github.com/cure-lab/SCINet
+	- Paper : https://arxiv.org/pdf/2106.09305.pdf
 
 ## Data Preprocessing
 - Min-Max Normalization
