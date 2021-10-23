@@ -1,4 +1,4 @@
-# Competition : Hand_Traffic_Signal_Classification <br>(HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회)
+# Competition : HAICon Industry Anomaly Detection <br>(HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회)
 
 [HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235757/overview/description)
 
