@@ -7,6 +7,7 @@
 
 ## Data Preprocessing
 - Image Crop
+- Train Partial Image Set (Not All Train Data)
 - Augmentation(ShiftScaleRotate, GaussianBlur, GaussianNoise, RandomGamma)
 
 ## Reference
