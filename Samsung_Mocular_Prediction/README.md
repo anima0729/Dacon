@@ -6,9 +6,11 @@
 - CNN2RNN (CNN Backbone : EfficientNet-B7, RNN : GRU) (코드 업데이트 예정)
 
 ## 다양한 Model
-- GCN2RNN (코드 업데이트 예정)
+- GCN2GRU
+	- Code : https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec9/Lab11_logP_Prediction_with_GCN.ipynb
 
 - GNN (코드 업데이트 예정)
+	- [Reference Video](https://www.youtube.com/watch?v=YL1jGgcY78U&ab_channel=IdeaFactoryKAIST)
 
 ## Data Preprocessing
 - Augmentation (Flip, RandomRotate90)
