@@ -3,7 +3,7 @@
 [HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235757/overview/description)
 
 ## Final Model
-- [DARNN]
+- DARNN
 	- Paper : https://arxiv.org/abs/1704.02971
 
 ## 다양한 Model
