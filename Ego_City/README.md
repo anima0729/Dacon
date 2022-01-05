@@ -3,7 +3,7 @@
 [2021 Ego-Vision 손동작 인식 AI 경진대회](https://www.dacon.io/competitions/official/235805/overview/description)
 
 ## Final Model
-- EfficientNet-B7 (코드 업로드 예정)
+- EfficientNet-B7
 
 ## Data Preprocessing
 - Image Crop
